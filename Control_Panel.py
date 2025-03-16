@@ -58,7 +58,7 @@ while True:
             print("Thanks for using control panel...")
             break
         elif (func_choice == "1"):
-            class_1.showStudents()
+            class_2.showStudents()
         elif (func_choice == "2"):
             name = input("Name : ")
             surname = input("Surname : ")
